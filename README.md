@@ -1,4 +1,4 @@
-<h1> Victory Cryptocoin Trend Analizer </h1>
+<h1> Victory Crypto_Analizer </h1>
 <i> start2impact Exam projcet </i>
 
 
