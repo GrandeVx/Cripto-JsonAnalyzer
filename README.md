@@ -13,4 +13,4 @@
     
     
 <p>* The top 20 cryptocurrencies according to the CoinMarketCap default ranking, the one visible on the site, therefore sorted by capitalization. <p>
-<p> remember to set you KEY of Coinmarketcap </p>
+<i> remember to set you KEY of <strong>Coinmarketcap<strong> </i>
