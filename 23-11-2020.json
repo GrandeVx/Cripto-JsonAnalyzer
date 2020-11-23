@@ -1,0 +1,310 @@
+{
+    "data": {
+        "top_1": {
+            "name": "Tether",
+            "volume": 81095528390.88094
+        },
+        "top_10": {
+            "1": {
+                "name": "Horizen",
+                "percentage": "37.62353951%"
+            },
+            "2": {
+                "name": "Nano",
+                "percentage": "26.72295024%"
+            },
+            "3": {
+                "name": "Orchid",
+                "percentage": "21.82206296%"
+            },
+            "4": {
+                "name": "XRP",
+                "percentage": "19.33687889%"
+            },
+            "5": {
+                "name": "NEM",
+                "percentage": "16.40999143%"
+            },
+            "6": {
+                "name": "Basic Attention Token",
+                "percentage": "11.68430072%"
+            },
+            "7": {
+                "name": "Tezos",
+                "percentage": "10.94133139%"
+            },
+            "8": {
+                "name": "Zcash",
+                "percentage": "10.05926674%"
+            },
+            "9": {
+                "name": "Blockstack",
+                "percentage": "9.65704616%"
+            },
+            "10": {
+                "name": "VeChain",
+                "percentage": "9.33382885%"
+            }
+        },
+        "worst_10": {
+            "1": {
+                "name": "HedgeTrade",
+                "percentage": -9.58044246
+            },
+            "2": {
+                "name": "SushiSwap",
+                "percentage": -9.20335336
+            },
+            "3": {
+                "name": "ABBC Coin",
+                "percentage": -8.591058
+            },
+            "4": {
+                "name": "yearn.finance",
+                "percentage": -8.40651471
+            },
+            "5": {
+                "name": "Ampleforth",
+                "percentage": -7.3217346
+            },
+            "6": {
+                "name": "Quant",
+                "percentage": -5.11407238
+            },
+            "7": {
+                "name": "Aave",
+                "percentage": -4.75761566
+            },
+            "8": {
+                "name": "Reserve Rights",
+                "percentage": -4.66236322
+            },
+            "9": {
+                "name": "THORChain",
+                "percentage": -4.57954251
+            },
+            "10": {
+                "name": "NXM",
+                "percentage": -2.97731447
+            }
+        },
+        "price_top_20": {
+            "1": {
+                "name": "Bitcoin",
+                "price": "18321.35570801426$"
+            },
+            "2": {
+                "name": "Ethereum",
+                "price": "595.1709786302755$"
+            },
+            "3": {
+                "name": "XRP",
+                "price": "0.56947263910322$"
+            },
+            "4": {
+                "name": "Tether",
+                "price": "1.00046965059376$"
+            },
+            "5": {
+                "name": "Chainlink",
+                "price": "14.99975563701245$"
+            },
+            "6": {
+                "name": "Bitcoin Cash",
+                "price": "316.0888429920321$"
+            },
+            "7": {
+                "name": "Litecoin",
+                "price": "87.4466363743624$"
+            },
+            "8": {
+                "name": "Polkadot",
+                "price": "5.8101888725994$"
+            },
+            "9": {
+                "name": "Cardano",
+                "price": "0.14919053064455$"
+            },
+            "10": {
+                "name": "Binance Coin",
+                "price": "30.42261644368899$"
+            },
+            "11": {
+                "name": "Bitcoin SV",
+                "price": "193.55077303870402$"
+            },
+            "12": {
+                "name": "EOS",
+                "price": "3.3485330421492$"
+            },
+            "13": {
+                "name": "USD Coin",
+                "price": "1.00012077854239$"
+            },
+            "14": {
+                "name": "Stellar",
+                "price": "0.11779378215698$"
+            },
+            "15": {
+                "name": "Monero",
+                "price": "129.04423028379412$"
+            },
+            "16": {
+                "name": "Wrapped Bitcoin",
+                "price": "18356.367653671732$"
+            },
+            "17": {
+                "name": "TRON",
+                "price": "0.03135096760731$"
+            },
+            "18": {
+                "name": "Tezos",
+                "price": "2.5868136265737$"
+            },
+            "19": {
+                "name": "Crypto.com Coin",
+                "price": "0.07232908759799$"
+            },
+            "20": {
+                "name": "NEM",
+                "price": "0.15333198840844$"
+            }
+        },
+        "price_top_76": {
+            "1": {
+                "name": "Bitcoin",
+                "price": "18321.35570801426$"
+            },
+            "2": {
+                "name": "Ethereum",
+                "price": "595.1709786302755$"
+            },
+            "3": {
+                "name": "XRP",
+                "price": "0.56947263910322$"
+            },
+            "4": {
+                "name": "Tether",
+                "price": "1.00046965059376$"
+            },
+            "5": {
+                "name": "Chainlink",
+                "price": "14.99975563701245$"
+            },
+            "6": {
+                "name": "Bitcoin Cash",
+                "price": "316.0888429920321$"
+            },
+            "7": {
+                "name": "Litecoin",
+                "price": "87.4466363743624$"
+            },
+            "8": {
+                "name": "Polkadot",
+                "price": "5.8101888725994$"
+            },
+            "9": {
+                "name": "Cardano",
+                "price": "0.14919053064455$"
+            },
+            "10": {
+                "name": "Binance Coin",
+                "price": "30.42261644368899$"
+            },
+            "11": {
+                "name": "Bitcoin SV",
+                "price": "193.55077303870402$"
+            },
+            "12": {
+                "name": "EOS",
+                "price": "3.3485330421492$"
+            },
+            "13": {
+                "name": "USD Coin",
+                "price": "1.00012077854239$"
+            },
+            "14": {
+                "name": "Stellar",
+                "price": "0.11779378215698$"
+            }
+        },
+        "perc_top_20": {
+            "0": {
+                "name": "Bitcoin",
+                "percentage": "-1.55757223%"
+            },
+            "1": {
+                "name": "Ethereum",
+                "percentage": "4.44561691%"
+            },
+            "2": {
+                "name": "XRP",
+                "percentage": "19.33687889%"
+            },
+            "3": {
+                "name": "Tether",
+                "percentage": "0.10161549%"
+            },
+            "4": {
+                "name": "Chainlink",
+                "percentage": "0.04182074%"
+            },
+            "5": {
+                "name": "Bitcoin Cash",
+                "percentage": "7.9807607%"
+            },
+            "6": {
+                "name": "Litecoin",
+                "percentage": "2.75999194%"
+            },
+            "7": {
+                "name": "Polkadot",
+                "percentage": "3.26280405%"
+            },
+            "8": {
+                "name": "Cardano",
+                "percentage": "1.19926289%"
+            },
+            "9": {
+                "name": "Binance Coin",
+                "percentage": "-0.326425%"
+            },
+            "10": {
+                "name": "Bitcoin SV",
+                "percentage": "5.38543638%"
+            },
+            "11": {
+                "name": "EOS",
+                "percentage": "7.22445457%"
+            },
+            "12": {
+                "name": "USD Coin",
+                "percentage": "0.0495014%"
+            },
+            "13": {
+                "name": "Stellar",
+                "percentage": "8.82909259%"
+            },
+            "14": {
+                "name": "Monero",
+                "percentage": "2.06329754%"
+            },
+            "15": {
+                "name": "Wrapped Bitcoin",
+                "percentage": "-1.39441987%"
+            },
+            "16": {
+                "name": "TRON",
+                "percentage": "7.3255976%"
+            },
+            "17": {
+                "name": "Tezos",
+                "percentage": "10.94133139%"
+            },
+            "18": {
+                "name": "Crypto.com Coin",
+                "percentage": "0.60620259%"
+            }
+        }
+    }
+}
